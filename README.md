@@ -1,7 +1,7 @@
 # coverage-across-modules-demo
 
-[![Build Status](https://travis-ci.org/ujjboy/coverage-across-modules.svg?branch=master)](https://travis-ci.org/ujjboy/coverage-across-modules)
-[![Coverage Status](https://codecov.io/gh/ujjboy/coverage-across-modules/branch/master/graph/badge.svg)](https://codecov.io/gh/ujjboy/coverage-across-modules)
+[![Build Status](https://travis-ci.org/ujjboy/coverage-across-modules-demo.svg?branch=master)](https://travis-ci.org/ujjboy/coverage-across-modules-demo)
+[![Coverage Status](https://codecov.io/gh/ujjboy/coverage-across-modules-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/ujjboy/coverage-across-modules-demo)
 ![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)
 
 
