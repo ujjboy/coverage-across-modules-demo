@@ -12,6 +12,7 @@
     <artifactId>coverage-across-modules-demo-test-integration</artifactId>
     
     <dependencies>
+        <!-- add all transitive for calculate code coverage -->
         <dependency>
             <groupId>org.howtimeflies</groupId>
             <artifactId>coverage-across-modules-demo-test-common</artifactId>
